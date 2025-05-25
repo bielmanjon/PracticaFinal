@@ -1,6 +1,11 @@
 # PracticaFinal
 
+
+### Inici
 ![Captura de pantalla de 2025-05-23 14-28-36](https://github.com/user-attachments/assets/e19c8bed-2562-45c1-bab5-39c3a4361211)
+
+Aqui tenim l'apartat de l'Inici, i faig una petita introduccio a la web
+
 ![Captura de pantalla de 2025-05-23 14-28-38](https://github.com/user-attachments/assets/70f0b4a5-94de-4698-99a9-c17c1724c591)
 ![Captura de pantalla de 2025-05-23 14-28-40](https://github.com/user-attachments/assets/fea8f568-11a2-4c49-990b-7727b71019b1)
 ![Captura de pantalla de 2025-05-23 14-28-42](https://github.com/user-attachments/assets/8290e9e8-17a8-4516-8005-b6dee7ac6819)
