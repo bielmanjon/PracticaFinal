@@ -13,7 +13,7 @@ Aqui he posat iformacio molt resumida dels Boixos
 
 ### Messi
 NO hi ha molt ha dir, el MILLOR.
-![Captura de pantalla de 2025-05-23 14-28-40](https://github.com/user-attachments/assets/fea8f568-11a2-4c49-990b-7727b71019
+![Captura de pantalla de 2025-05-23 14-28-40](https://github.com/user-attachments/assets/fea8f568-11a2-4c49-990b-7727b71019) 
 
 
 ### El sextete 
